@@ -61,3 +61,8 @@ print ("Sorted array :")
 for i in range(len(arr)):
     print ("%d" %arr[i], end=" ")
 
+
+
+sortedArr = [1,2,3,4,5,6,7]
+
+optimalBublbleSort(sortedArr)
